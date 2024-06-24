@@ -10,7 +10,7 @@ object expression2{
 
         b = b-1 // for --b
         println(b)
-        println(b*a+c*d)
+        println(s"a) b*a+c*d = ${b*a+c*d}")
 
         d = d-1 // for d--
     
