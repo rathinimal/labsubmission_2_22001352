@@ -14,18 +14,18 @@ object expression2{
 
         d = d-1 // for d--
     
-        println(a)
+        println(s"b) a = ${a}")
         a = a+1
 
         var g = 0
         println(s"c)-2*(g-k)+c = ${-2*(g-k)+c}")
 
         
-        println(c)
+        println(s"d) c++ = ${c}") // c= c++
         c= c+1
 
-        c=c+1
-        println(c)
+        c=c+1 // c = ++c
+       
         println(s"e) ++c*a++ = ${c*a}")
         a = a+1 // a++
         println(a)
