@@ -1,0 +1,4 @@
+a.In scala "--" operator is does not support but in Java it 			 supports. so in scala the value should be decrement manually
+
+
+b. same "++" operator is does not support in scala. It should increment manually.
